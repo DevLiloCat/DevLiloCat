@@ -24,7 +24,7 @@ Kaizerhind
 ######
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-**[zaikmodding@gmail.com](mailto:zaikmodding@gmail.com)**
+**[zaikmodding@gmail.com](mailto:sebastiancamcc@gmail.com)**
 ##
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaizerHind&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
