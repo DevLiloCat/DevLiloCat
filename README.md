@@ -1,4 +1,4 @@
-# 📑 Kaizerhind | ![](https://komarev.com/ghpvc/?username=KaizerHindo&color=blue)
+# 📑 Kaizerhind | ![](https://komarev.com/ghpvc/?username=Bastiano&color=blue)
 
 - **Front and Back End Developer**
 
